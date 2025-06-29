@@ -1,0 +1,12 @@
+#--------------------#
+# Listado de Usuarios separando campos por coma.
+#
+# Nombre_Usuario , Grupo_Primario , Directorio_Home
+#
+#--------------------#
+r1_alejo_fernandez,G_R1,/work/tp_integral_ayso/R1
+r2_alejo_fernandez,G_R2,/work/tp_integral_ayso/R2
+r3_alejo_fernandez,G_R3,/work/tp_integral_ayso/R3
+r4_alejo_fernandez,G_R4,/work/tp_integral_ayso/R4
+r5_alejo_fernandez,G_R5,/work/tp_integral_ayso/R5
+r6_alejo_fernandez,G_R6,/work/tp_integral_ayso/R6
